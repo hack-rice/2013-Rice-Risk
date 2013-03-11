@@ -9,3 +9,7 @@ Play Risk on the Rice campus
  - Valerie Baretsky <veb2@rice.edu>
  - Wilson Beebe <wsb1@rice.edu>
  - Jake Kornblau <jak6@rice.edu>
+ 
+ ![image](ricerisk1.PNG)
+ 
+ ![image](ricerisk2.PNG)
